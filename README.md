@@ -1,7 +1,4 @@
-# Demo repo
+# Demo Single page website 
 
-First commit
+ A demo single page responsive website made with HTML CSS and Javascript 
 
-## Subheader 
-
-trying out git
